@@ -1,9 +1,10 @@
 public class DiagonalStar {
     public static void main(String[] args) {
-    printSquareStar(20);
+        printSquareStar(20);
+
+
 
     }
-
     public static void printSquareStar(int number){
         if(number>=5){
         for(int row=0; row<number; row++){
@@ -17,4 +18,7 @@ public class DiagonalStar {
     }
         else System.out.println("Invalid Value");
     };
+
+
+
 }
