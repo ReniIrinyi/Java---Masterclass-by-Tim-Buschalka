@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ChallengesSection5/ChallengesSection5.iml" filepath="$PROJECT_DIR$/ChallengesSection5/ChallengesSection5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChallengesSection6/ChallengesSection6.iml" filepath="$PROJECT_DIR$/ChallengesSection6/ChallengesSection6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChallengesSection7/ChallengesSection7.iml" filepath="$PROJECT_DIR$/ChallengesSection7/ChallengesSection7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA---Masterclass-by-Tim-Buschalka.iml" filepath="$PROJECT_DIR$/.idea/JAVA---Masterclass-by-Tim-Buschalka.iml" />
+    </modules>
+  </component>
+</project>

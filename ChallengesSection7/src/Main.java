@@ -1,7 +1,9 @@
-public class Main {
+public class Main extends java.lang.Object {
     public static void main(String[] args) {
-        Car car=new Car();
-        System.out.println(car.getModel());
-        car.describeCar();
+
+
     }
+
+
 }
+
