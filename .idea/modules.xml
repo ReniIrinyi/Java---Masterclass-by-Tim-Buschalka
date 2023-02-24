@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ChallengesSection10/ChallengesSection10.iml" filepath="$PROJECT_DIR$/ChallengesSection10/ChallengesSection10.iml" />
       <module fileurl="file://$PROJECT_DIR$/ChallengesSection5/ChallengesSection5.iml" filepath="$PROJECT_DIR$/ChallengesSection5/ChallengesSection5.iml" />
       <module fileurl="file://$PROJECT_DIR$/ChallengesSection6/ChallengesSection6.iml" filepath="$PROJECT_DIR$/ChallengesSection6/ChallengesSection6.iml" />
       <module fileurl="file://$PROJECT_DIR$/ChallengesSection7/ChallengesSection7.iml" filepath="$PROJECT_DIR$/ChallengesSection7/ChallengesSection7.iml" />
