@@ -48,6 +48,7 @@ public class MoreLists {
 
         groceries.addAll(List.of("apples", "bananas", "milk", "mustad", "cheese"));
         groceries.addAll(Arrays.asList("eggs", "prickles", "mustard", "ham")); //aslist  return array as arraylist!!
+
         System.out.println(groceries);
         groceries.sort(Comparator.naturalOrder());
         System.out.println(groceries);
