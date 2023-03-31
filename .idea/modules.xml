@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ChalengesSection13/ChalengesSection13.iml" filepath="$PROJECT_DIR$/ChalengesSection13/ChalengesSection13.iml" />
       <module fileurl="file://$PROJECT_DIR$/ChallengesSection10/ChallengesSection10.iml" filepath="$PROJECT_DIR$/ChallengesSection10/ChallengesSection10.iml" />
       <module fileurl="file://$PROJECT_DIR$/ChallengesSection11/ChallengesSection11.iml" filepath="$PROJECT_DIR$/ChallengesSection11/ChallengesSection11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChallengesSection12/ChallengesSection12.iml" filepath="$PROJECT_DIR$/ChallengesSection12/ChallengesSection12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChallengesSection14/ChallengesSection14.iml" filepath="$PROJECT_DIR$/ChallengesSection14/ChallengesSection14.iml" />
       <module fileurl="file://$PROJECT_DIR$/ChallengesSection18/ChallengesSection19.iml" filepath="$PROJECT_DIR$/ChallengesSection18/ChallengesSection19.iml" />
       <module fileurl="file://$PROJECT_DIR$/ChallengesSection5/ChallengesSection5.iml" filepath="$PROJECT_DIR$/ChallengesSection5/ChallengesSection5.iml" />
       <module fileurl="file://$PROJECT_DIR$/ChallengesSection6/ChallengesSection6.iml" filepath="$PROJECT_DIR$/ChallengesSection6/ChallengesSection6.iml" />
